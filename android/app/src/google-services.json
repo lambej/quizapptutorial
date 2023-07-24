@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "821117531058",
+    "project_id": "fireship-app-tutorial-1fc90",
+    "storage_bucket": "fireship-app-tutorial-1fc90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821117531058:android:4d08f7aab6efd51ba2eaab",
+        "android_client_info": {
+          "package_name": "io.fireship.quizapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821117531058-si4cd0rtumidp28cnn06s48u6km0283b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.fireship.quizapptutorial",
+            "certificate_hash": "af14753a6c955ad5ce1ddf18636942c498f84884"
+          }
+        },
+        {
+          "client_id": "821117531058-umnqag60pqjkeqsj8901rfpl8shbslue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKFi3Ot-04qbn10qkpj4z790ypvK5-Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821117531058-umnqag60pqjkeqsj8901rfpl8shbslue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
